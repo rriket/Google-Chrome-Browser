@@ -1,2 +1,2 @@
 # Google-Chrome-Browser
-Build a Google Chrome Web Browser Using Python
+Built a Google Chrome Web Browser in Python using PyQt5
